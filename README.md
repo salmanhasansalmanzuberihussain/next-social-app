@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+UNGUARDED User Authentication System [NextJS/Expo React Native] 
+Clerk [Build out bases with this] 
+I have already added this base before in my own system but the problem is now I have to attach to store and subscription 
+ 
+Social Media Template [Created Two Days Ago] [1 Hour a day] (App will be different great research) 
+https://www.youtube.com/watch?v=gsysxSuTohA 
+ 
+Tailwind used in this base 
+ 
+1.NPX Create Next App [Add Tailwind] 
+2.Add Home page  
+3.Push to add to github 
+4. Go to Source Control and Install NextJS 
+5.Push to github using  
+https://www.youtube.com/watch?v=wrb7Gge9yoE 
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+6. Localhost:3000 
+7..././ [Add Fonts] 
+8.Add Posts [ID] and add page ID 
+9.Users/[username] page.jsx 
+10. Add another div class 
+11.Add Sidebar Components  
+12. Add LeftSidebar and RightSidebar 
+13. Change Layout.jsx  
+14.Add Divs that are necessary  
+15.Addding a Search Page 
+16.Install npm install react-icons –save 
+17.Add UseState [add state variables to a component and track the state of data or properties] 
+18. The useEffect Hook allows you to perform side effects in your components. Some examples of side effects are: fetching data, directly updating the DOM, and timers. useEffect accepts two argume
